@@ -10,4 +10,6 @@ This repo will give you a more general approach to xv6 (which is just at the con
 
 ## Topics covered
 
+[systemcalls](systemcalls.md)
+
 [scheduler](scheduling.md)
