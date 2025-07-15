@@ -1,0 +1,123 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.4 Chrome/138.0.7204.97 Electron/37.2.1 Safari/537.36" version="28.0.4" pages="2">
+  <diagram name="lottery-scheduler" id="LGMHBDX9puynW6mfIruV">
+    <mxGraphModel dx="958" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oDzkSDsuoAaOyUpZNNIK-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oDzkSDsuoAaOyUpZNNIK-1" target="oDzkSDsuoAaOyUpZNNIK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDzkSDsuoAaOyUpZNNIK-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Alright bro you will&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;run next&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;for this time&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oDzkSDsuoAaOyUpZNNIK-10">
+          <mxGeometry x="-0.1596" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oDzkSDsuoAaOyUpZNNIK-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Scheduler&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oDzkSDsuoAaOyUpZNNIK-2" value="Process 2" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oDzkSDsuoAaOyUpZNNIK-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;I have 1 tickets T_T&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oDzkSDsuoAaOyUpZNNIK-2">
+          <mxGeometry x="20" y="65" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oDzkSDsuoAaOyUpZNNIK-3" value="Process 3" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oDzkSDsuoAaOyUpZNNIK-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;I have 5 tickets&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oDzkSDsuoAaOyUpZNNIK-3">
+          <mxGeometry x="20" y="65" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oDzkSDsuoAaOyUpZNNIK-4" value="Process 4" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oDzkSDsuoAaOyUpZNNIK-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;I have 8 tickets&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oDzkSDsuoAaOyUpZNNIK-4">
+          <mxGeometry x="20" y="65" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oDzkSDsuoAaOyUpZNNIK-5" value="Process 1" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oDzkSDsuoAaOyUpZNNIK-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;I have 10 tickets&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oDzkSDsuoAaOyUpZNNIK-5">
+          <mxGeometry x="20" y="65" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oDzkSDsuoAaOyUpZNNIK-12" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Wtf bro ?&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.4;base=20;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oDzkSDsuoAaOyUpZNNIK-13" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Wtf bro ?&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.4;base=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oDzkSDsuoAaOyUpZNNIK-14" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Wtf bro ?&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.4;base=20;" vertex="1" parent="1">
+          <mxGeometry x="740" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TdzHEdnqrkKXjvtERiFc" name="diagram">
+    <mxGraphModel dx="958" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KR_Lx6YV-fW660b_pHUg-2" target="KR_Lx6YV-fW660b_pHUg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-2" value="Scheduler calculates the total tickets (RUNNABLE state) (24 in this example)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KR_Lx6YV-fW660b_pHUg-1" target="KR_Lx6YV-fW660b_pHUg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KR_Lx6YV-fW660b_pHUg-4" target="KR_Lx6YV-fW660b_pHUg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-4" value="Generate a random number between 0-24 (11 in this example)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KR_Lx6YV-fW660b_pHUg-7" target="KR_Lx6YV-fW660b_pHUg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-7" value="loop through the &lt;code&gt;RUNNABLE&lt;/code&gt; processes&lt;div&gt;subtract the total tickets by the ticket of each process&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="530" y="100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KR_Lx6YV-fW660b_pHUg-9" target="KR_Lx6YV-fW660b_pHUg-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="240" />
+              <mxPoint x="710" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;FALSE&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KR_Lx6YV-fW660b_pHUg-11">
+          <mxGeometry x="-0.0216" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-9" value="total tickets &amp;lt;= 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KR_Lx6YV-fW660b_pHUg-14" target="KR_Lx6YV-fW660b_pHUg-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-14" value="This process will run next" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KR_Lx6YV-fW660b_pHUg-9" target="KR_Lx6YV-fW660b_pHUg-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-16" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;TRUE&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KR_Lx6YV-fW660b_pHUg-15">
+          <mxGeometry x="-0.1933" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KR_Lx6YV-fW660b_pHUg-17" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

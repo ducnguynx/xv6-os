@@ -13,3 +13,5 @@ This repo will give you a more general approach to xv6 (which is just at the con
 [systemcalls](systemcalls.md)
 
 [scheduler](scheduling.md)
+
+[(project) lottery scheduler](lottery-scheduler.md)
