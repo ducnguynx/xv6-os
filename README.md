@@ -15,3 +15,5 @@ This repo will give you a more general approach to xv6 (which is just at the con
 [scheduler](scheduling.md)
 
 [(project) lottery scheduler](lottery-scheduler.md)
+
+[(project) memory protection](lottery-scheduler.md)
