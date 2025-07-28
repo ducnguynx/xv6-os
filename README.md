@@ -17,3 +17,5 @@ This repo will give you a more general approach to xv6 (which is just at the con
 [(project) lottery scheduler](lottery-scheduler.md)
 
 [(project) memory protection](partof-memory.md)
+
+[concurrency: xv6 threads](threads.md)
